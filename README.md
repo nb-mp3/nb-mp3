@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi, I'm Nathanael 👋
+#I'm an aspiring software developer with interests in programming and innovations in technology. I'm currently building my technical skills through independent learning.
 <!--
 **nb-mp3/nb-mp3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
